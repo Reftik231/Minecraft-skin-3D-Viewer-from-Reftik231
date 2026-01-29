@@ -17,7 +17,7 @@
 # Использование
 Вставка через iframe:
 ```html
-    <iframe style="border-radius: 50px" src="index.php
+    <iframe style="border-radius: 50px" src="index.html
             ?name=Reftik231
             &skin=https://raw.githubusercontent.com/Reftik231/Minecraft-skin-3D-Viewer-from-Reftik231/refs/heads/main/images/Reftik231_skin.png
             &cloak=https://raw.githubusercontent.com/Reftik231/Minecraft-skin-3D-Viewer-from-Reftik231/refs/heads/main/images/Reftik231_cloak.png
